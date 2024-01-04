@@ -93,9 +93,9 @@ raises, try, except, finally
 
 ### Special Keywords
 
-`inout`: Reads and mutates the original value directly, like lending a pen with permission to edit.\n
-`borrowed`: Reads the original value only, like borrowing a book to admire but not write in.\n
-`owned`: Takes exclusive control, like receiving a gift you can modify or discard at will.\n
+- `inout`: Reads and mutates the original value directly, like lending a pen with permission to edit.
+- `borrowed`: Reads the original value only, like borrowing a book to admire but not write in.
+- `owned`: Takes exclusive control, like receiving a gift you can modify or discard at will.
 
 ### SIMD
 
