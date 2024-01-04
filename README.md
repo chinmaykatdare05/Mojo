@@ -1,4 +1,4 @@
-# MOJO
+# Mojo Programming Language
 
 ## Variable Assignment
 
@@ -13,7 +13,7 @@
 - `uinit` -> same as `int`
 - `float` -> same as `int` (`float16` is useful/better)
 
-## Input
+# Input
 
 ```mojo
 from python import Python
