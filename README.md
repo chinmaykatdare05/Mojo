@@ -1,17 +1,17 @@
-# Mojo Programming Language
+# Mojo 🔥 Programming Language
 
 ### Variable Assignment
 
-- `let` - runtime, immutable
-- `var` - runtime, mutable
-- `alias` - compile time, immutable
+- `let` -> runtime, immutable
+- `var` -> runtime, mutable
+- `alias` -> compile time, immutable
 
 ### Data Types
 
 - `string`, `int`, `float`, `bool`, `uint`
-- `int` -> `int8`, `int16`, `int32`, `int64` (default)
+- `int` -> `int64` (default), `int8`, `int16`, `int32`
 - `uinit` -> same as `int`
-- `float` -> same as `int` (`float16` is useful/better)
+- `float` -> same as `int` (`float16` is better)
 
 ### Input
 
